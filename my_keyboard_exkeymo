@@ -181,11 +181,13 @@ key D {
     label:                              'D'
     base:                               'd'
     shift, capslock:                    'D'
+	ralt:                                  '\u0008'
 }
 key F {
     label:                              'F'
     base:                               'f'
     shift, capslock:                    'F'
+    ralt:                                  '\u000d'
 }
 key G {
     label:                              'G'
